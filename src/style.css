@@ -3,3 +3,20 @@
 body{
     background: white;
 }
+
+#excuse {
+    width: 50%;
+    height: 50px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin: auto;
+    margin-top: 30px;
+    font-weight: 500;
+}
+
+p {
+    margin: auto; 
+    justify-content: center;
+    align-content: center;
+}
